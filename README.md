@@ -1,1 +1,1 @@
-https://github.com/13shourya/java-script-lab1.git
+https://13shourya.github.io/java-script-lab1/
